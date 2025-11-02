@@ -1,11 +1,13 @@
 ---
-title: "한유찬바보"
-slug: "yuchan"
-description: "한유찬바보"
-coverImage: "https://raw.githubusercontent.com/0x0P/blog-posts/main/Images/covers/1761628793703-%5D.webp"
-tags: ["한유찬바보", "보"]
-createdAt: "2025-10-28T05:20:29.280Z"
-updatedAt: "2025-10-28T05:20:29.280Z"
+title: 한유찬바보
+slug: yuchan
+description: 한유찬바보
+coverImage: ''
+tags:
+  - 한유찬바보
+  - 보
+createdAt: '2025-10-28T05:20:29.280Z'
+updatedAt: '2025-11-02T06:07:36.731Z'
 ---
 
 한유찬 바보한유찬 바보한유찬 바보한유찬 바보한유찬 바보한유찬 바보한유찬 바보한유찬 바보한유찬 바보한유찬 바보한유찬 바보한유찬 바보한유찬 바보한유찬 바보한유찬 바보한유찬 바보한유찬 바보한유찬 바보한유찬 바보한유찬 바보한유찬 바보한유찬 바보한유찬 바보한유찬 바보한유찬 바보한유찬 바보한유찬 바보한유찬 바보한유찬 바보한유찬 바보한유찬 바보한유찬 바보한유찬 바보한유찬 바보한유찬 바보한유찬 바보한유찬 바보한유찬 바보한유찬 바보
